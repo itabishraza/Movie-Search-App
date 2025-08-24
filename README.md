@@ -14,8 +14,7 @@ Users can search for movies, view details, and enjoy a smooth UI with animations
 - 🎨 Smooth animations on search results and hover effects  
 - 🧭 Navigation with **React Router**:
   - Home / Search Page
-  - Movie Detail Page
-  - 404 Not Found Page  
+ 
 - 📱 Fully responsive design  
 
 ---
@@ -26,16 +25,17 @@ Users can search for movies, view details, and enjoy a smooth UI with animations
 - **React Router** (Navigation)  
 - **CSS / Tailwind (if used)** (Styling & Animations)  
 - **OMDb API** (Movie Data Fetching)  
-- **Netlify** (Hosting)
+- **Netlify** (Hosting soon)
 
 ---
 
 ## 📷 Screenshots
 
-### 🔍 Home / Search Page
-![Home Screenshot](screencapture-localhost-5173-2025-08-24-23_26_23.png)
+### 🔍 Home / Search Page Screenshot 1
+![Home Screenshot 1](screencapture-localhost-5173-2025-08-24-23_26_23.png)
 
-
+### 🔍 Home / Search Page Screenshot 1
+![Home Screenshot 2](screencapture-localhost-5173-2025-08-24-23_27_16.png)
 
 ---
 
@@ -45,3 +45,4 @@ Users can search for movies, view details, and enjoy a smooth UI with animations
    ```bash
    git clone https://github.com/itabishraza/Movie-Search-App.git
    cd Movie-Search-App
+   npm run dev
