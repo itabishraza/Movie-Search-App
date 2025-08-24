@@ -1,12 +1,48 @@
-# React + Vite
+# 🎬 Movie Search App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive **Movie Search Application** built with **React.js**.  
+Users can search for movies, view details, and enjoy a smooth UI with animations.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔍 Search movies by title using the OMDb API  
+- 🎞️ Display movie details like **Title, Year, Poster, Type**  
+- ⏳ Debounced search for better performance  
+- 📡 Handles **loading** and **error states**  
+- 🎨 Smooth animations on search results and hover effects  
+- 🧭 Navigation with **React Router**:
+  - Home / Search Page
+  - Movie Detail Page
+  - 404 Not Found Page  
+- 📱 Fully responsive design  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **React.js** (Frontend)  
+- **React Router** (Navigation)  
+- **CSS / Tailwind (if used)** (Styling & Animations)  
+- **OMDb API** (Movie Data Fetching)  
+- **Netlify** (Hosting)
+
+---
+
+## 📷 Screenshots
+
+### 🔍 Home / Search Page
+![Home Screenshot](https://via.placeholder.com/800x400?text=Movie+Search+App+-+Home)
+
+### 🎞️ Movie Detail Page
+![Detail Screenshot](https://via.placeholder.com/800x400?text=Movie+Search+App+-+Detail)
+
+---
+
+## ⚙️ Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/itabishraza/Movie-Search-App.git
+   cd Movie-Search-App
