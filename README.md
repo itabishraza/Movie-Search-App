@@ -33,7 +33,7 @@ Users can search for movies, view details, and enjoy a smooth UI with animations
 ## 📷 Screenshots
 
 ### 🔍 Home / Search Page
-![Home Screenshot](https://drive.google.com/file/d/1iethQMPIS80CPhkChUD9FQDWTPieYAml/view?usp=sharing)
+![Home Screenshot](screencapture-localhost-5173-2025-08-24-23_26_23.png)
 
 
 
