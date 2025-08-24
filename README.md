@@ -33,10 +33,9 @@ Users can search for movies, view details, and enjoy a smooth UI with animations
 ## 📷 Screenshots
 
 ### 🔍 Home / Search Page
-![Home Screenshot](https://via.placeholder.com/800x400?text=Movie+Search+App+-+Home)
+![Home Screenshot](https://drive.google.com/file/d/1iethQMPIS80CPhkChUD9FQDWTPieYAml/view?usp=sharing)
 
-### 🎞️ Movie Detail Page
-![Detail Screenshot](https://via.placeholder.com/800x400?text=Movie+Search+App+-+Detail)
+
 
 ---
 
