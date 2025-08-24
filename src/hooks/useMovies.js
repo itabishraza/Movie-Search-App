@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const API_URL = "http://www.omdbapi.com/?apikey=6ab7526";
+const API_URL = "https://www.omdbapi.com/?apikey=6ab7526";
 
 function useMovies() {
     const [movies, setMovies] = useState([]);
